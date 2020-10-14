@@ -837,7 +837,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ShaderNames:
-  - Standard
+  - KT/Mobile/DiffuseTint
 --- !u!114 &114394700034940060
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -873,7 +873,7 @@ MonoBehaviour:
   m_Script: {fileID: 1702003387, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Parent: {fileID: 114480486359341034}
+  Parent: {fileID: 114139553842080666}
   Children: []
   IsPassThrough: 0
   ChildRowLength: 0
